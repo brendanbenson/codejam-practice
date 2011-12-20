@@ -6,12 +6,10 @@ cases = f.readline.to_i
 
 cases.times do |i|
   
-  # parse the input and create the data structures
+  # initialize the values
   
-  # process the data
+  # execute the code
   
-  # output the result
-  message = ""
   o.syswrite "Case \##{i + 1}: #{message}\n"
   
 end
